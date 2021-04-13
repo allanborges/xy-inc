@@ -46,12 +46,6 @@ listar por proximidade deverá passar os parametros das coordenadas e a distanci
 http://localhost:8080/xyimp2/poi/listarPorProximidade?x=20&y=10&distancia=10
 
 
----
-
-é isso =D !
-
-Abraço Allan 
-
 
 
 
